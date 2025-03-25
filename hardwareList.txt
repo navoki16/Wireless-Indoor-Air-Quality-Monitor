@@ -1,0 +1,4 @@
+-ESP32
+-CCS811 sensor
+-LCD Display 1602A
+-BME280 sensor
